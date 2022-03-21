@@ -10,7 +10,7 @@ public class App
     {
         int x= 10;
 
-        String hello = "hello";
+        String hello = "hello uu";
         hello += " ehe";
         System.out.println("x is" +  x + ", "+ hello);
         System.out.println( "Hello World!" );
